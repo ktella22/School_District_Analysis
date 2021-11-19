@@ -5,9 +5,11 @@ The propose of this project is to understand format DataFrame column, determine 
 
 ## Results
 In the current analysis, most of the values from the original analysis did not change and remained the same. That looks reasonable because only small portion of students from Thomas High School was removed from the very large datasets and the changes did not have major impact on most of the remaining values. Below is the screenshot of district summary from original analysis. 
+
 <img width="526" alt="original_district_summary" src="https://user-images.githubusercontent.com/92502292/142676743-9021450c-f0ff-40ed-882e-aa295dfc62f9.PNG">
 
-The table below is the screenshot of new analysis after removing Thomas High School nth-graders from datasets. There were a slight decrease in average math scores, % passing math and reading and % of overall Passing in new district summary but the drop are pretty insignificant. 
+The table below is the screenshot of new analysis after removing Thomas High School nth-graders from datasets. There were a slight decrease in average math scores, % passing math and reading and % of overall Passing in new district summary but the drop are pretty insignificant.
+ 
 <img width="513" alt="district_summary_screenshot" src="https://user-images.githubusercontent.com/92502292/142676869-85ca5226-d794-4c44-8db2-0bc20513bfb4.PNG">
 
 The values in the updated school district analysis remained intact even after the scores are grouped by different categories such as grade, school spending budgent, school size and the type of school on the current analysis. 
